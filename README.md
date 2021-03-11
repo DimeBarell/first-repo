@@ -1,3 +1,4 @@
-# first-repo
+ # first-repo
 repository created for studying purposes
-another line
+
+README.md file was just edited manually. One more edit at GitHub
