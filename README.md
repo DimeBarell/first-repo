@@ -1,4 +1,4 @@
-# first-repo
+ # first-repo
 repository created for studying purposes
 
-README.md file was just eidted manually. This file was modified locally.
+This line was modified manually during conflicts resolution
