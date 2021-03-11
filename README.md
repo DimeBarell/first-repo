@@ -1,3 +1,4 @@
 # first-repo
 repository created for studying purposes
-another line
+
+README.md file was just eidted manually. This file was modified locally.
